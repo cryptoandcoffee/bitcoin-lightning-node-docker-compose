@@ -3,7 +3,9 @@ Run a Bitcoin Lightning Node docker compose style.
 
 - Simplicity is key - this setup requires no user setup!
 - All images are built locally on your machine 
-- You can see the source code of the two repos used https://github.com/cryptoandcoffee/lightning and https://github.com/cryptoandcoffee/lightning-node
+- You can see the source code of the two repos used 
+  1. https://github.com/cryptoandcoffee/lightning
+  2. https://github.com/cryptoandcoffee/lightning-node
 - Bitcoin version 0.20.1 in use!
 
 # Requirements
