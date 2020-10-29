@@ -16,4 +16,5 @@ Docker and Docker-Compose
 Should work on anything running Docker!
 
 # Run the program
-Use run.sh or create ```btc-data``` and ```lightning-data``` folders then run ```docker-compose up -d```
+- Linux/Mac : ```chmod +x run.sh ; ./run.sh```
+- Windows : Create ```btc-data``` and ```lightning-data``` folders then run ```docker-compose up -d```
