@@ -1,5 +1,5 @@
 # bitcoin-lightning-node-docker-compose
-Run a bitcoin lightning node docker compose style 
+Run a Bitcoin Lightning Node docker compose style 
 
 # Requirements
 Docker and Docker-Compose
