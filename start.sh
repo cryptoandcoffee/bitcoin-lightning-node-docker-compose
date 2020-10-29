@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone https://github.com/cryptoandcoffee/lightning-node
 git clone https://github.com/cryptoandcoffee/lightning
 mkdir btc-data/
