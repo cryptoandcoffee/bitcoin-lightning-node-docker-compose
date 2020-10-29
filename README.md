@@ -25,8 +25,9 @@ services:
 - Bitcoin version 0.20.1 in use!
 
 # Requirements
-Docker and Docker-Compose
-200+ GB of drive space for btc-data
+- Docker and Docker-Compose
+- 200+ GB of drive space for btc-data
+- Public IPv4 address
 
 # Cross Platform! 
 Should work on anything running Docker!
