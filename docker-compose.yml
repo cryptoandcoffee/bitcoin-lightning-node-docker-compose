@@ -1,0 +1,13 @@
+version: "3.3"
+services:
+  btc:
+    network_mode: host
+    build: ./lightning-node/
+    volumes:
+      - ./btc-data:/root/.bitcoin
+  ln:
+    network_mode: host
+    build: ./lightning/
+    volumes:
+      - ./lightning-data:/root/.lightning/
+      - ./btc-data:/root/.bitcoin
